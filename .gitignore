@@ -1,0 +1,32 @@
+# Composer
+/vendor/
+/composer.lock
+
+# PHPStorm, VS Code
+/.idea/
+.vscode/
+
+# Environment files
+.env
+.env.*
+
+# Logs and caches
+*.log
+cache/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Node modules (if any)
+node_modules/
+
+# Build artifacts
+dist/
+
+# Ignore compiled files
+*.exe
+*.dll
+
+# OneDrive temp files
+~$*
